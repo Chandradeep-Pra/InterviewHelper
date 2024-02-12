@@ -1,0 +1,11 @@
+{
+  "name": "interviewhelper",
+  "version": "1.0.0",
+  "description": "This project is intended to help candudate with interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
